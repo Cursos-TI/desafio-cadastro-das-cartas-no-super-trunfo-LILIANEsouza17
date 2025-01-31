@@ -6,12 +6,12 @@ int main(){
  //Nome do país
     printf(" PAÍS BRASIL\n");
     //CADASTRAR CARTAS
-    int ESTADOS
-    int CIDADES
+    int ESTADOS;
+    int CIDADES;
     char opçao= 'S'
 
-ESTADOS=8
-CIDADE=32
+   ESTADOS = 8;
+   CIDADES = 32;
 
 
 
