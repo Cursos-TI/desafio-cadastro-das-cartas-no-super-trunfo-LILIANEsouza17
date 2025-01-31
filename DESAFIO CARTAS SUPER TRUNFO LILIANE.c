@@ -9,7 +9,7 @@ char CIDADES[32];//nomes das cidades
 int população;
 float área km;
 float pib;
-int números ponto turístico;
+int pontos turísticos;
 
 
 }
