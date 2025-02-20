@@ -6,7 +6,7 @@ int main(){
 
     printf("CARTA 1\n");
 
-    char ESTADO[] = "ESTADO A,B,C,D,E,F,G,H";
+    char ESTADOELETRA[] = "ESTADO A,B,C,D,E,F,G,H";
     char CIDADE[] = "CIDADE 1,2,3,4";
     char CODIGO[] = "A 1,2,3,4, B 1,2,3,4, C 1,2,3,4, D 1,2,3,4, E 1,2,3,4, F 1,2,3,4, G 1,2,3,4, H 1,2,3,4";
     int POPULACAO;
@@ -15,8 +15,12 @@ int main(){
     int NUMEROPONTOSTURISTICOS;
 
     // USUARIO CADASTRA OS DADOS DA CARTA 1
-    printf("\n ESTADO:  ");//USUARIO CADASTRA A LETRA E O NOME DO ESTADO DO PAÍS ESCOLHIDO.
-    scanf(" %c %s",ESTADO);
+    printf("\n ESTADO:  ");//USUARIO CADASTRA O NOME E A LETRA DO ESTADO DO PAÍS ESCOLHIDO.
+    scanf(" %s %c",ESTADOELETRA);
+
+    //USUARIO CADASTRA NOME DA CIDADE DO PAÍS ESCOLHIDO
+    printf("\n CIDADE:  ");
+    scanf(" %s",CIDADE);
 
     
 }
