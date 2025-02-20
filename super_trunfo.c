@@ -24,7 +24,7 @@ int main(){
 
     //USUARIO CADASTRA O CÓDIGO DA CARTA 1
     printf("\n CÓDIGO DA CARTA: ");
-    scanf("4%s",CODIGO);
+    scanf("%c %d",CODIGO);
 
     
 }
