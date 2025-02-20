@@ -19,5 +19,5 @@ int main(){
     scanf(" %c %s",ESTADO);
 
     printf("\n CIDADE:  ");//USUARIO CADASTRA O NOME DA CIDADE DO ESTADO ESCOLHIDO.
-    scanf("%c %d",CIDADE);
+    scanf("%c %d",CIDADE1,2,3,4);
 }
