@@ -17,4 +17,7 @@ int main(){
     // USUARIO CADASTRA OS DADOS DA CARTA 1
     printf("\n ESTADO:  ");//USUARIO CADASTRA A LETRA E O NOME DO ESTADO DO PAÍS ESCOLHIDO
     scanf(" %c %s",&ESTADO);
+
+    printf("\n CIDADE: ");// USUARIO CADASTRA O NOME DA CIDADE
+    scanf(" %s",&CIDADE);
 }
