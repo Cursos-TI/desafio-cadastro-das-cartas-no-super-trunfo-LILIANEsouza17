@@ -8,7 +8,7 @@ int main(){
 
     char ESTADO [] = "ESTADO A,B,C,D,E,F,G,H";
     char CIDADE[20];
-    char CODIGO[2] = "A 1,2,3,4, B 1,2,3,4, C 1,2,3,4, D 1,2,3,4, E 1,2,3,4, F 1,2,3,4, G 1,2,3,4, H 1,2,3,4";
+    char CODIGO[]; 
     int POPULACAO;
     float AREAKM;
     float PIB;
