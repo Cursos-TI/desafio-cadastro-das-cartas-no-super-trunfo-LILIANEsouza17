@@ -23,7 +23,7 @@ int main(){
     scanf(" 19%s",CIDADE);
 
     //USUARIO CADASTRA O CÓDIGO DA CARTA 1
-    printf("\n CÓDIGO DA CARTA: ");
+    printf("\n CÓDIGO DA CARTA:  ");
     scanf("%c %d",CODIGO);
 
     
