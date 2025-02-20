@@ -13,4 +13,8 @@ int main(){
     float AREAKM;
     float PIB;
     int NUMEROPONTOSTURISTICOS;
+
+    // USUARIO CADASTRA OS DADOS DA CARTA 1
+    printf("\n ESTADO:  ");//USUARIO CADASTRA A LETRA E O NOME DO ESTADO DO PAÍS ESCOLHIDO
+    scanf(" %c %s",&ESTADO);
 }
