@@ -8,7 +8,7 @@ int main(){
 
     char ESTADO [] = "ESTADO A,B,C,D,E,F,G,H";
     char CIDADE[20];
-    char CODIGO[]; 
+    char CODIGO[5]; 
     int POPULACAO;
     float AREAKM;
     float PIB;
@@ -24,7 +24,7 @@ int main(){
 
     //USUARIO CADASTRA O CÓDIGO DA CARTA 1
     printf("\n CÓDIGO DA CARTA: ");
-    scanf("1%s",CODIGO);
+    scanf("4%s",CODIGO);
 
     
 }
