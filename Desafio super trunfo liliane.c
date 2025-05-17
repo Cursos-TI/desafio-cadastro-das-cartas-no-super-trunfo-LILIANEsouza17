@@ -33,7 +33,7 @@ int main(){
     printf("CÓDIGO DA CARTA 2-LETRA(A-H): ");
     scanf(" %c", &codigo_letra2);
     printf("CÓDIGO DA CARTA 2- NÚMERO(1-4): ");
-    scanf(" %d", &codigo_numero2):
+    scanf(" %d", &codigo_numero2);
     printf("ESTADO(A-H): ");
     scanf(" %c", &estado2);
     printf("CIDADE(1-4): ");
@@ -71,7 +71,7 @@ int main(){
     printf("CARTA 2 CADASTRADA COM SUCESSO!\n");
     printf("-----------------------------------------------------------------\n");
 
-    
+
     return 0;
 }
 
